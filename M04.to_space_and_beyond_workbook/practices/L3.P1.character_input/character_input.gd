@@ -9,7 +9,11 @@ var direction := Vector2(0, 0)
 
 func _process(delta: float) -> void:
 	# The direction is always equal to Vector2(0, 0)! Add code to remedy that.
-
+	#added the next 2 lines to pass this practice
+	direction .x = Input.get_axis("move_left", "move_right")
+	direction.y = Input.get_axis("move_up", "move_down")
+	#added the previous 2 lines to pass this practice
+	
 	velocity = direction * max_speed
 	position += velocity * delta
 	if velocity.length() > 0.0:
