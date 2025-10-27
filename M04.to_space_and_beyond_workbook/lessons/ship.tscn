@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://c4vp8u0lafnf3"]
 
-[ext_resource type="Texture2D" uid="uid://bniyrxn3r2v8h" path="res://assets/ship.png" id="1_d1bfu"]
+[ext_resource type="Texture2D" uid="uid://bmf570i3ahvo" path="res://assets/ship.png" id="1_d1bfu"]
 [ext_resource type="Script" uid="uid://jg57xwbfv1wc" path="res://lessons/ship.gd" id="2_2dafo"]
 
 [node name="Ship" type="Sprite2D"]
