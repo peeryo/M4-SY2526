@@ -1,8 +1,8 @@
 [gd_resource type="ShaderMaterial" load_steps=6 format=3 uid="uid://cgvnmpq6vnska"]
 
 [ext_resource type="Shader" uid="uid://dx1setststrb8" path="res://assets/background/star_field.gdshader" id="1_xe26a"]
-[ext_resource type="Texture2D" uid="uid://dk462tbnxbke8" path="res://assets/background/space_pattern.png" id="2_x64ec"]
-[ext_resource type="Texture2D" uid="uid://b05epr78tg6cf" path="res://assets/background/star_tileset.png" id="3_6wsqn"]
+[ext_resource type="Texture2D" uid="uid://dfgksufb77khe" path="res://assets/background/space_pattern.png" id="2_x64ec"]
+[ext_resource type="Texture2D" uid="uid://bqpo2pernptbp" path="res://assets/background/star_tileset.png" id="3_6wsqn"]
 
 [sub_resource type="Gradient" id="Gradient_ddiw4"]
 interpolation_mode = 1
